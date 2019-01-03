@@ -1,4 +1,6 @@
 def my_each(array)
-  my_each
+  i = 0 
+  while counter < array.length 
+  puts array[i]
  
 end
